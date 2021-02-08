@@ -2,18 +2,7 @@
 const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal) => { 
 	return `
 	
-\`\`\`Follow My Instagram\`\`\`
-${instagram}
 
-\`\`\`SUBSCRIBE😁\`\`\`
-${yt}
-
-\`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
-
-
-\`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
-\`\`\`MENGGUNAKAN BOT\`\`\`
 
 ╭──────「 *REGULATION ${name}* 」
 ┴
