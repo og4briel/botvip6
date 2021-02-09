@@ -1,41 +1,5 @@
-### I'm FXC7BOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
-<p align="center">
-<a href="https://github.com/Fxc7"><img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png"></a>
-</p>
-<br>
-
-
-
-<p align="center">
-<a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-TERMUX--BOT--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Fxc7"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FARHAN-orange?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Fxc7/termux-bot-wa/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fxc7?style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fxc7/termux-bot-wa?style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FarhanXCode7/termux-bot-wa?style=flat-square"></a>
-
-</p>
-
-
-<details>
-
-
-
-* [Ovo](08311800241)
-* [Pulsa](08311800241)
-</details>
-
-## Tools
-
-```bash
-> Termux
-> WhatsApp
-> 2 HandPhone
-```
-
+### SOU O BOT DO GABRIEL MANDE UMAS ESTRELAS AI NA HUMILDADE 🌟
+ 
 ## Install
 Follow The Steps Below!
 
@@ -45,191 +9,164 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/Fxc7/termux-bot-wa
-> cd termux-bot-wa
+> git clone https://github.com/og4briel/botvip6
+> cd botvip6
 > npm cache clear
 > bash install.sh
 > npm audit fix
 > npm start / node index.js
 ```
 
-<p align="center">
-<a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-TAMPILAN--MENU-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
+## Características
 
-<img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/Screenshot_2021-01-29-18-18-32-18.jpg" width="450px" height="650px">
-
-## Features
-
-| NEW USER | YES
+| NOVO USUÁRIO | Sim
 | :---------------------------------------------: | :-----------: |
-|  Register Name And Age origin|✅|
+|  Registre nome e origem etária|✅|
 
-|  CREATOR  |                                           YES |
+|  CRIADOR |                                           SIM |
 | :---------------------------------------------: | :-----------: |
-| Sticker Maker|✅|
-| Sticker Gif Maker|✅|
-| Convert Sticker To Image|✅|
-| Convert Video To MP3|✅|
-| Black Pink Logo Maker|✅|
-| 3D Text Maker|✅|
-| Quote Maker|✅|
-| Water Maker|✅|
-| Fire Text Maker
+| Fabricante de adesivos|✅|
+| Adesivo Gif Maker|✅|
+| Converter adesivo em imagem|✅|
+| Converter vídeo para MP3|✅|
+| Fabricante de logotipo rosa preto|✅|
+| Fabricante de texto 3D|✅|
+| Fabricante de citações|✅|
+| Fabricante de água|✅|
+| Fabricante de texto de fogo
 | Marvel Logo Maker|✅|
-| Snow Write Maker|✅|
+| Fabricante de escrita de neve|✅|
 | Ninja Logo Maker|✅|
 | Logo Wolf Maker|✅|
-| And much more |✅|
+| E muito mais |✅|
 
-| MEDIA | YES |
+| | DE MÍDIA SIM |
 | :-----------------: | :-------: |
 | Trend Twit|✅|
-| YT Search|✅|
-| Wattpad Search|✅|
+| Pesquisa YT|✅|
+| Pesquisa wattpad|✅|
 
-| EDUCATION | YES |
+| | DE EDUCAÇÃO SIM |
 | :-----------------: | :-------: |
-| The Meaning Of The Name|✅|
-| Text To Sticker|✅|
-| Nulis Name/class/text|✅|
-| Quotes|✅|
+| O significado do nome|✅|
+| Texto para adesivo|✅|
+| Nulis Nome/classe/texto|✅|
+| Citações|✅|
 
-| ASK | YES |
+| PERGUNTE | SIM |
 | :-----------------: | :-------: |
 | Apakah|✅|
 | Kapankah|✅|
 | Bisakah|✅|
 
-| DOWNLOADER | YES |
+| | DOWNLOADER SIM |
 | :-----------------: | :-------: |
-| Pinterest Downloader|✅|
+| Downloader do Pinterest|✅|
 
-| MEME | YES |
+| | meme SIM |
 | :-----------------: | :-------: |
 | Meme|✅|
 | Meme Indo|✅|
 
-| GROUP | YES |
+| | em grupo SIM |
 | :-----------------: | :-------: |
-| Open Group|✅|
-| Link Group|✅|
+| Grupo Aberto|✅|
+| Grupo Link|✅|
 | info Group|✅|
-| Close Group|✅|
-| Promote Member|✅|
-| Demote Member|✅|
-| Hide Tag|✅|
-| Tag All Members|✅|
-| Add Member|✅|
-| Kick Member|✅|
-| Show List Admins|✅|
-| Leave Group|✅|
-| Show Owner Group|✅|
-| welcome New Members|✅|
+| Grupo Fechado|✅|
+| Promover membro|✅|
+| Membro rebaixado|✅|
+| Se esconder|✅|
+| Marque todos os membros|✅|
+| Adicione membro|✅|
+| Membro kick|✅|
+| Lista de Administradores|✅|
+| Deixe o Grupo|✅|
+| Grupo de Donos do Show|✅|
+| bem-vindos Novos Membros|✅|
 | Nsfw|✅|
 
-| SOUND | YES |
+| | de som SIM |
 | :-----------------: | :-------: |
-| Text To Speach|✅|
+| Texto para Speach|✅|
 
-| MUSIC | YES |
+| | musicais SIM |
 | :-----------------: | :-------: |
-| Music Lyrics|✅|
-| Chord Guitar|✅|
+| Letras musicais|✅|
+| Violão|✅|
 
-| ISLAM | YES |
+| | do Islã SIM |
 | :-----------------: | :-------: |
-| Qur'an|✅|
-| Qur'an Surah 1,2,3 dll |✅|
+| Alcorão|✅|
+| Alcorão Surah 1,2,3 dll |✅|
 
-| STALK | YES |
+| | STALK SIM |
 | :-----------------: | :-------: |
 | Instagram Stalk|✅|
 | Tiktok Stalk|✅|
 
-| WIBU | YES |
+| wibu | SIM |
 | :-----------------: | :-------: |
 | Neonime|✅|
 | Pokemon|✅|
 | Nekonime|✅|
 | Naruto|✅|
 | Loli|✅|
-| Random Shota|✅|
-| Random Waifu|✅|
-| Random Anime|✅|
-| And much more|✅|
+| Shota aleatório|✅|
+| Waifu aleatório|✅|
+| Anime aleatório|✅|
+| E muito mais|✅|
 
-| FUN | YES |
+| | divertida SIM |
 | :-----------------: | :-------: |
 | Kucing|✅|
 | Anjing|✅|
 | Alay|✅|
-| Glitch|✅|
+| Falha|✅|
 | hilih|✅|
 | Cek Ganteng|✅|
 | Watak|✅|
-| Random Hobby|✅|
-| Pinterest [Optional] |✅|
+| Hobby aleatório|✅|
+| Pinterest [Opcional] |✅|
 
-| INFORMATION | YES |
+| | DE INFORMAÇÕES SIM |
 | :-----------------: | :-------: |
-| List Bahasa|✅|
-| Information Weather|✅|
+| Lista Bahasa|✅|
+| Informações Meteorológicas|✅|
 | KBBI|✅|
 | Fakta|✅|
 | Covid|✅|
 | Gempa Terkini|✅|
 
-| 18+ | YES |
+| mais de 18 | SIM |
 | :-----------------: | :-------: |
-| Random Hentai|✅|
+| Hentai aleatório|✅|
 | NSFW Neko|✅|
 
-| OWNER | YES |
+| PROPRIETÁRIO | SIM |
 | :-----------------: | :-------: |
-| Set pp bot|✅|
-| Set Reply Chat|✅|
-| add premium |✅|
-| remove premium |✅|
-| Set Prefix|✅|
-| Block Member|✅|
-| Broadcast|✅|
-| Group Broadcast|✅|
-| Clear All Chat|✅|
+| Defina pp bot|✅|
+| Definir o bate-papo de resposta|✅|
+| adicionar |✅| premium
+| remover |✅| premium
+| Definir prefixo|✅|
+| Membro do bloco|✅|
+| Transmissão|✅|
+| Transmissão do Grupo|✅|
+| Limpe todo o bate-papo|✅|
 
-| PREMIUM MENU | YES |
+| | DE MENU PREMIUM SIM |
 | :-----------------: | :-------: |
-| Youtube mp3 Download|✅|
-| Youtube mp4 Download|✅|
+| Download do youtube mp3|✅|
+| Download do Youtube mp4|✅|
 | Joox|✅|
 | Facebook Video Download|✅|
-| Snack Video Download|✅|
-| Play Mp3|✅|
+| Download de vídeo de lanche|✅|
+| Jogar Mp3|✅|
 
- TENTANG BOT | YES |
+| DO BOT TENTANG SIM |
 | :-----------------: | :-------: |
-| info|✅|
-| ChatList|❌|
+| informações|✅|
+| Lista de bate-papo|❌|
 
 
-## Note
-
-* Dont Forget Stars
-
-* |En| And You can add your own quotes
-* |Ind| Dan Kalian Bisa tambahkan Quotes Kalian
-
-
-## Special Thanks
-
-* [Baileys](https://github.com/adiwajshing/baileys)
-* Created Bot => [MhankBarBar](https://github.com/MhankBarBar)
-* [NURUTOMO](https://github.com/nurutomo)
-
-
-
-## Group
-
-* <a href="https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
----
